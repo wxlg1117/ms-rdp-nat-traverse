@@ -45,10 +45,10 @@
 2. 确保在Windows系统上安装了`.Net 4.5`及以上版本，双击即可运行软件；
 3. 在运行后，需要根据需要配置代理服务器以及本机的设置，然后才可以点击启动按钮启动相关服务。其他功能比较简单，很容易使用；
 4. 客户端运行截图：
-	* ![截图0](https://raw.githubusercontent.com/ChrisLeeGit/MSRDPNatTraverse/master/ScreenShots/win7_1.jpg)
-	* ![截图1](https://raw.githubusercontent.com/ChrisLeeGit/MSRDPNatTraverse/master/ScreenShots/win10_1.jpg)
-	* ![截图2](https://raw.githubusercontent.com/ChrisLeeGit/MSRDPNatTraverse/master/ScreenShots/win10_2.jpg)
-	* ![截图3](https://raw.githubusercontent.com/ChrisLeeGit/MSRDPNatTraverse/master/ScreenShots/win10_3.jpg)
+	* ![截图0](https://raw.githubusercontent.com/Wxlg1117/ms-rdp-nat-traverse/master/ScreenShots/win7_1.jpg)
+	* ![截图1](https://raw.githubusercontent.com/Wxlg1117/ms-rdp-nat-traverse/master/ScreenShots/win10_1.jpg)
+	* ![截图2](https://raw.githubusercontent.com/Wxlg1117/ms-rdp-nat-traverse/master/ScreenShots/win10_2.jpg)
+	* ![截图3](https://raw.githubusercontent.com/Wxlg1117/ms-rdp-nat-traverse/master/ScreenShots/win10_3.jpg)
 
 
 ### Mac客户端软件
@@ -57,8 +57,8 @@
 3. 下载Mac版客户端代码，解压后在终端中进入解压后的目录，使用命令：`python3 App.py`即可运行；
 4. 请确保下载了微软远程桌面软件(`Microsoft Remote Desktop`)，然后才能借助于客户端穿透内网访问其他远程计算机；
 5. 客户端运行截图：
-	* ![截图1](https://raw.githubusercontent.com/ChrisLeeGit/MSRDPNatTraverse/master/ScreenShots/mac_1.png)
-	* ![截图2](https://raw.githubusercontent.com/ChrisLeeGit/MSRDPNatTraverse/master/ScreenShots/mac_2.png)
+	* ![截图1](https://raw.githubusercontent.com/Wxlg1117/ms-rdp-nat-traverse/master/ScreenShots/mac_1.png)
+	* ![截图2](https://raw.githubusercontent.com/Wxlg1117/ms-rdp-nat-traverse/master/ScreenShots/mac_2.png)
 
 ## 贡献
 * [WashingtonLiu](https://github.com/WashingtonLiu)等人在Windows客户端测试中给予了很多帮助，感激不尽！
